@@ -14,4 +14,6 @@ Week 5 (Feb 17-21): SIPRI background papers on weapons trade (you choose)
 
 Week 6 (Feb 24-28): Jonathan Rodden, *The Long Shadow of the Industrial Revolution*/*Why Cities Lose*, Introduction, 1.1-1.2 (11 pages), and *Geography and Representation* interview on EconTalk (11 pages).
 
-Week 7 (Mar 3-7): Enroco Moretti, *The New Geography of Jobs*, Chapter 5 - "The inequality of mobility and cost of living" (15 pages)
+Week 7 (Mar 3-7): Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "The inequality of mobility and cost of living" (15 pages)
+
+Week 8 (Mar 10-14): Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goods" (22 pages)
