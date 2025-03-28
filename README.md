@@ -19,3 +19,5 @@ Week 7 (Mar 3-7): Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "The 
 Week 8 (Mar 10-14): Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goods" (22 pages)
 
 Week 9 (Mar 17-21): Donald Shoup, *The High Cost of Free Parking*, Chapter 1 - "The Twenty-first Century Parking Problem" (15 pages)
+
+Week 10 (Mar 24-28): exam -- Elizabeth Hinton, *From the War on Poverty to the War on Crime*, Chapter 8 - "Crime Control as Urban Policy" (31 pages) -- OPTIONAL
