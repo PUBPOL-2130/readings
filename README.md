@@ -23,3 +23,5 @@ Week 9 (Mar 17-21): Donald Shoup, *The High Cost of Free Parking*, Chapter 1 - "
 Week 10 (Mar 24-28): exam -- Elizabeth Hinton, *From the War on Poverty to the War on Crime*, Chapter 8 - "Crime Control as Urban Policy" (31 pages) -- OPTIONAL
 
 Week 11 (Apr 7-11): Richard Rothstein, *Just Action: How to Challenge Segregation Enacted Under the Color of Law* (9 pages)
+
+Week 12 (Apr 14-18): Kenneth Jackson, *Crabgrass Frontier: The Suburbanization of the United Stats*, Intro and Chapter 1 (17 pages)
