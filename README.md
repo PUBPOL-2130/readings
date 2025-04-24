@@ -26,4 +26,4 @@ Week 11 (Apr 7-11): Richard Rothstein, *Just Action: How to Challenge Segregatio
 
 Week 12 (Apr 14-18): Kenneth Jackson, *Crabgrass Frontier: The Suburbanization of the United Stats*, Intro and Chapter 1 (17 pages)
 
-Week 13 (Apr 21-25): Jane Jacobs, *The Death and Life of Great American Cities*, Chapter 6 (29 pages) ***and/or*** [An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html)
+Week 13 (Apr 21-25): Jane Jacobs, *The Death and Life of Great American Cities*, Chapter 6 - "The Uses of City Neighborhoods" (29 pages) ***and/or*** [An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html)
